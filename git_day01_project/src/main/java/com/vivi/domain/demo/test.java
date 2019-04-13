@@ -7,6 +7,7 @@ public class test {
         User user = new User();
         user.setId(1);
         user.setName("胖亮");
-        System.out.println("不要胖亮");
+        System.out.println("就要胖亮");
+        System.out.println("就要胖亮");
     }
 }
